@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Jose María Huerva",
-    "username": "Grupo Parroquial Fraga",
-    "email": "email@gmail.com",
-    "address": {
+      "name": "Juan Ignacio Cardona Orozco ",
+        "username": "Grupo Parroquial de Graus",
+        "email": "leonacho40@hotmail.com",
+        "address": {
       "street": "Plaza San Pedro, 1",
       "animador": "Animador Laico",
       "city": "Fraga",
       "fijo": "974427274"
     },
-    "phone": "974427274",
-    "moderador": "Jose María Huerva. Contacto: 974427274",
+    "phone": "616389807",
+    "moderador": "Juan Ignacio Cardona Orozco. Contacto: 974427274",
     "company": {
       "name": "Arciprestazgo del Bajo Cinca",
       "unidad": "Unidad Pastoral de Fraga",
-      "arcipreste": "Jose María Huerva. Contacto: 974427274"
+      "arcipreste": "Juan Ignacio Cardona Orozco. Contacto: 974427274"
     }
   },
   {
@@ -49,45 +49,45 @@
       "fijo": "613240435"
     },
     "phone": "613240435",
-    "moderador": "José Antonio Castán Ballarín. Contacto: 649534204",
+    "moderador": "Oscar Vives G. Contacto:696372890",
     "company": {
       "name": "Medio Cinca y Litera",
       "unidad": "Monzón",
-      "arcipreste": "Jhon Mario Carmona Mona. Contacto: 613240435"
+      "arcipreste": "José Antonio Castán Ballarín, Contacto:649534204"
     }
   },
   {
     "id": 4,
-    "name": "Mosen Jaime",
+    "name": "Jeovanny Cardona Orozco",
     "username": "Barbastro",
     "email": "email@gmail.com",
     "address": {
       "street": "Barbastro",
       "animador": "Animador Laico",
       "city": "Barbastro",
-      "fijo": "679929215"
+      "fijo": ""
     },
-    "phone": "679929215",
-    "moderador": "Mosen Jaime. Contacto: 679929215",
+    "phone": "685490627",
+    "moderador": "Mosen Jeovanny Cardona Orozco. Contacto: 685490627",
     "company": {
       "name": "Somontano",
       "unidad": "Barbastro",
-      "arcipreste": "Omar. Contacto: 613240435"
+      "arcipreste": "Mosen Jeovanny Cardona Orozco. Contacto: 685490627"
     }
   },
         {
           "id": 5,
-          "name": "Juan Ignacio Cardona Orozco ",
+          "name": "Alfonso Pabón Ordúz ",
           "username": "Grupo Parroquial de Graus",
           "email": "leonacho40@hotmail.com",
           "address": {
             "street": "Plaza Sn Miguel - #8",
             "animador": "Animador Laico",
             "city": "Graus",
-            "fijo": "974540728"
+            "fijo": "641948026"
           },
-          "phone": "616389807",
-          "moderador": "Juan Ignacio Cardona. Contacto: 616613174",
+          "phone": "641948026",
+          "moderador": "Alfonso Pabón Ordúz. Contacto: 641948026",
           "company": {
             "name": "Arciprestazgo Sobrarbe-Ribagorza",
             "unidad": "Unidad Patoral de Graus",
@@ -145,7 +145,7 @@
             "fijo": "974542025"
           },
           "phone": "624083835",
-          "moderador": "Juan Ignacio Cardona. Contacto: 616613174",
+          "moderador": "Alfonso Pabón Ordúz. Contacto: 641948026",
           "company": {
             "name": "Arciprestazgo Sobrarbe-Ribagorza",
             "unidad": "Unidad Patoral de Graus",
@@ -154,7 +154,7 @@
         },
         {
           "id": 9,
-          "name": "Jose Vidal Salazar Restrepo ",
+          "name": "Jean Maria Vianey  ",
           "username": "Grupo Parroquial de Graus",
           "email": "leonacho40@hotmail.com",
           "address": {
@@ -163,8 +163,8 @@
             "city": "Benabarre",
             "fijo": "974540728"
           },
-          "phone": "722147656",
-          "moderador": "Juan Ignacio Cardona. Contacto: 616613174",
+          "phone": "655123868",
+          "moderador": "Alfonso Pabón Ordúz. Contacto: 641948026",
           "company": {
             "name": "Arciprestazgo Sobrarbe-Ribagorza",
             "unidad": "Unidad Patoral de Graus",
@@ -433,7 +433,7 @@
             "fijo": "606113374"
           },
           "phone": "606113374",
-          "moderador": "Juan Ignacio Cardona. Contacto: 616613174",
+          "moderador": "Alfonso Pabón Ordúz. Contacto: 641948026",
           "company": {
             "name": "Arciprestazgo Sobrarbe-Ribagorza",
             "unidad": "Unidad Patoral de Graus",
@@ -452,7 +452,7 @@
             "fijo": "974347128"
           },
           "phone": "974347128",
-          "moderador": "Juan Ignacio Cardona. Contacto: 616613174",
+          "moderador": "Alfonso Pabón Ordúz. Contacto: 641948026",
           "company": {
             "name": "Arciprestazgo Sobrarbe-Ribagorza",
             "unidad": "Unidad Patoral de Graus",
